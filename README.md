@@ -4,6 +4,10 @@ DebateBot is an AI-powered debating assistant that simulates structured debates 
 
 ---
 
+![image alt](https://github.com/AbelPriyakumarP/Debatebot-self_arguement-Project/blob/1cf1cfbb733b1f2797af85618d608ad9183bd0d4/Screenshot%202025-05-24%20212547.png)
+
+---
+
 ## 📌 Features
 
 - **Self-arguing debate generation** using DistilGPT-2
