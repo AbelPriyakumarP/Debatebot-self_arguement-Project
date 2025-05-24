@@ -3,7 +3,9 @@ Overview
 DebateBot is an interactive web application built with Streamlit that leverages a transformer-based Large Language Model (LLM) to simulate debates. It generates an argument, counterargument, and rebuttal for a user-provided topic and initial argument idea. The application uses Retrieval-Augmented Generation (RAG) with a FAISS vector database to retrieve relevant context from a predefined knowledge base, enhancing the quality of generated responses. The UI features a visually appealing 3D starry sky background, making the experience engaging.
 The project is designed for users interested in exploring automated debate generation, suitable for educational purposes, research, or casual experimentation. It uses distilgpt2 as the default LLM for lightweight performance, with options to upgrade to more powerful models like Mistral-7B for better results.
 
-![image alt]()
+![image alt](https://github.com/AbelPriyakumarP/Debatebot-self_arguement-Project/blob/0addc5a47d71c10387c96f69eb11493c6359159a/Screenshot%202025-05-24%20212547.png)
+
+
 Project Architecture
 The architecture of DebateBot is modular, combining data retrieval, text generation, and a user-friendly interface. Below is an overview of the components:
 
